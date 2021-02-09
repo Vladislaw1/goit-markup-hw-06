@@ -581,11 +581,12 @@ header {
   border-radius: 4px;
   outline: none;
   padding-left: 15px;
-
+  color: #ffffff;
   transition: border 250ms var(--timing-function);
 }
 .input-email-footer:focus {
-  border: 1px solid #188ce8;
+  border: 1px solid #2196f3;
+  outline: none;
 }
 .form-footer {
   display: flex;
